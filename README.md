@@ -1,9 +1,5 @@
 <!-- Phish -->
-
-<p align="center">
-  <img src=".imgs/logo.png">
-</p>
-
+<p align="center">Phish</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Deadman247/Phish?style=for-the-badge">
@@ -66,15 +62,6 @@ $ docker run --rm -it Deadman247/Phish
 > All the dependencies will be installed automatically when you run `Phish` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
-
-##
-
-<h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
 
 ### Special Thanks :
 
