@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
+##   Phish 	: 	Automated Phishing Tool
 ##   Author 	: 	Dead-Man 
 ##   Version 	: 	1.0
 ##   Github 	: 	https://github.com/Deadman247
