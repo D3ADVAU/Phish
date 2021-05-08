@@ -43,8 +43,8 @@ $ git clone git://github.com/Deadman247/Phish
 
 ## Tool run
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd phish
+$ bash phish.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Phish` is installed.
