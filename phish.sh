@@ -138,13 +138,13 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-	        ${ORANGE}   _ _ _           _      _     
-		${Yollow}  |  |___ \  ||   (_)    | |    
-		${ORANGE}  |  |  _/ / ||__  _  ___| |__  
-		${YOLLOW}  |   _ _/   | '_ \| / __| '_. \ 
-		${ORANGE}  |  |       | | | \__ \ | |  | |
-		${ORANGE}  |__|       | |_|_|___/_| |  |_|
-                                         ${RED}Version : 1.0
+		${RED}     _ _ _          _      _     
+		${RED}   |  |___ \  ||   (_)    | |
+		${RED}   |  |  _/ / ||__  _  ___| |__  
+		${RED}   |   _ _/   | '_ \| / __| '_. \ 
+		${RED}   |  |       | | | \__ \ | |  | |
+		${RED}   |__|       | |_|_|___/_| |  |_|
+                                               ${RED}Version : 1.0
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Deadman247 (Dead-Man)${WHITE}
 	EOF
