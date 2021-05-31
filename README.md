@@ -1,5 +1,8 @@
 <!-- Phish -->
-<p align="center">Phish</p>
+<h1 align="center">Phish</h1><p align="center">
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Author-Dead--Man-cyan?style=flat-square">
+  </h1><p align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Deadman247/Phish?style=for-the-badge">
@@ -9,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Dead--Man-cyan?style=flat-square">
+
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
@@ -32,16 +35,14 @@
 
 ### Installation
 
-- Just, Clone this repository -
-```
-$ git clone git://github.com/Deadman247/Phish
-```
+# Just, Clone this repository
+
+- `git clone git://github.com/Deadman247/Phish`
 
 ## Tool run
-```
-$ cd phish
-$ bash phish.sh
-```
+- `cd phish`
+- `bash phish.sh`
+
 
 - On first launch, It'll install the dependencies and that's it. `Phish` is installed.
 
