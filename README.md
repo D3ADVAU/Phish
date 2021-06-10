@@ -65,14 +65,13 @@ $ docker run --rm -it Deadman247/Phish
 - `git`
 
 > All the dependencies will be installed automatically when you run `Phish` for the first time.
-```
-
 <h3 align="center">
 :: Phish ::
 </h3>
 <p align="center">
 <img src="Phish.JPG"/>
 </p>
+
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
 ### Special Thanks :
