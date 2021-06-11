@@ -1,5 +1,9 @@
 <!-- Phish -->
 <h1 align="center">Phish</h1><p align="center">
+</h3>
+<p align="center">
+<img src="logo.JPG"/>
+</p>
 <p align="center">
 <a href="#"><img title="Made by Dead-Man" src="https://img.shields.io/badge/MADE%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
