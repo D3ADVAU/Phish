@@ -257,6 +257,7 @@ about() {
 	cat <<- EOF
 		${GREEN}Author   ${RED}:  ${ORANGE}Dead-Man ${RED}[ ${ORANGE}Dead-Man ${RED}]
 		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/Deadman247
+                ${GREEN}Social   ${RED}:  ${CYAN}https://facebook.com/deadman.247.666
 		${GREEN}Version  ${RED}:  ${ORANGE}2.1
 
 		${REDBG}${WHITE} Thanks : DeadMan ${RESETBG}
