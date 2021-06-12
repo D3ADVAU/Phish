@@ -4,9 +4,11 @@
 ##   Author 	: 	Dead-Man 
 ##   Version 	: 	1.0
 ##   Github 	: 	https://github.com/Deadman247
+##   Facebook   :       https://facebook.com/DeadManGrayHat
 
-##   THANKS TO :
+##   THANKS TO : Dead-Man
 ##   Dead-Man - https://github.com/Deadman247
+##   Dead-Man - https://facebook.com/DeadManGrayHat
 
 ## If you Copy Then Give the credits :)
 
@@ -147,6 +149,7 @@ banner() {
                                                ${RED}Version : 1.0
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Deadman247 (Dead-Man)${WHITE}
+                ${GREEN}[${WHITE}-${GREEN}]${CYAN} Follow me on Facebook:facebook.com/DeadManGrayHat(Dead-Man)${WHITE}
 	EOF
 }
 
@@ -257,7 +260,7 @@ about() {
 	cat <<- EOF
 		${GREEN}Author   ${RED}:  ${ORANGE}Dead-Man ${RED}[ ${ORANGE}Dead-Man ${RED}]
 		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/Deadman247
-                ${GREEN}Social   ${RED}:  ${CYAN}https://facebook.com/deadman.247.666
+                ${GREEN}Social   ${RED}:  ${CYAN}https://facebook.com/DeadManGrayHat
 		${GREEN}Version  ${RED}:  ${ORANGE}2.1
 
 		${REDBG}${WHITE} Thanks : DeadMan ${RESETBG}
