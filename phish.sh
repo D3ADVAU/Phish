@@ -146,7 +146,7 @@ banner() {
 		${RED}   |   _ _/   | '_ \| / __| '_. \ 
 		${RED}   |  |       | | | \__ \ | |  | |
 		${RED}   |__|       | |_|_|___/_| |  |_|
-                                               ${RED}Version : 1.0
+                         ${RED}Version : 1.0
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Author: Deadman247 (Dead-Man)${WHITE}
 ${GREEN}[${WHITE}✉➤${GREEN}]${CYAN} Facebook:facebook.com/DeadManGrayHat(Dead-Man)${WHITE}
