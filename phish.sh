@@ -149,7 +149,7 @@ banner() {
                                                ${RED}Version : 1.0
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Author: Deadman247 (Dead-Man)${WHITE}
-                ${GREEN}[${WHITE}✉➤${GREEN}]${CYAN} Facebook:facebook.com/DeadManGrayHat(Dead-Man)${WHITE}
+${GREEN}[${WHITE}✉➤${GREEN}]${CYAN} Facebook:facebook.com/DeadManGrayHat(Dead-Man)${WHITE}
 	EOF
 }
 
