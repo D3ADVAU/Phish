@@ -148,8 +148,8 @@ banner() {
 		${RED}   |__|       | |_|_|___/_| |  |_|
                                                ${RED}Version : 1.0
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Deadman247 (Dead-Man)${WHITE}
-                ${GREEN}[${WHITE}-${GREEN}]${CYAN} Follow me on Facebook:facebook.com/DeadManGrayHat(Dead-Man)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Author: Deadman247 (Dead-Man)${WHITE}
+                ${GREEN}[${WHITE}✉➤${GREEN}]${CYAN} Facebook:facebook.com/DeadManGrayHat(Dead-Man)${WHITE}
 	EOF
 }
 
