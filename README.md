@@ -1,88 +1,73 @@
 <!-- Phish -->
-<h1 align="center">Phish</h1><p align="center">
-<p align="center">
-<img src="logo.JPG"/>
-</p>
-<p align="center">
-<a href="#"><img title="Made by Dead-Man" src="https://img.shields.io/badge/MADE%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<h1 align="center">Dead-Man</h1><p align="center">
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Author-Dead--Man-cyan?style=flat-square">
-  </h1><p align="center">
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/Deadman247/Phish?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/Deadman247/Phish?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/Deadman247/Phish?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/Deadman/Phish?color=teal&style=for-the-badge">
-</p>
+<h1 align="center">Phish</h1>
+<p align="center"><img class="alignnone size-full wp-image-34" src="https://deadman247.files.wordpress.com/2021/06/logo.jpg" alt="logo" width="304" height="115"></p>
+<p align="center"></p>
+<p align="center"><a href="#"><img title="Made by Dead-Man" src="https://img.shields.io/badge/MADE%20in-Bangladesh-green?colorA=%23ff0000&amp;colorB=%23017e40&amp;style=for-the-badge"></a></p>
 
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
-</p>
-
+<h1 align="center">Dead-Man</h1>
+<h1 align="center"><img src="https://img.shields.io/badge/Author-Dead--Man-cyan?style=flat-square"></h1>
+<p align="center"><img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
+<img src="https://img.shields.io/github/license/Deadman247/Phish?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/Deadman247/Phish?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/Deadman247/Phish?color=red&amp;style=for-the-badge">
+<img src="https://img.shields.io/github/forks/Deadman/Phish?color=teal&amp;style=for-the-badge"></p>
+<img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&amp;colorB=%23017e40&amp;style=flat-square">
+<img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 
+<h6>Features</h6>
+<ul>
+ 	<li>Latest and updated login pages.</li>
+ 	<li>Mask URL support</li>
+ 	<li>Beginners friendly</li>
+ 	<li>Docker support (checkout&nbsp;<code>docker-legacy</code>&nbsp;branch)</li>
+ 	<li>Multiple tunneling options
+<ul>
+ 	<li>Localhost</li>
+ 	<li>Ngrok (With or without hotspot)</li>
+</ul>
+</li>
+</ul>
+<h6>Installation</h6>
+<h6>JustClone this repository</h6>
+<ul>
+ 	<li><code>git clone git://github.com/Deadman247/Phish</code></li>
+</ul>
+<h2>Tool run</h2>
+<ul>
+ 	<li><code>cd phish</code></li>
+ 	<li><code>bash phish.sh</code></li>
+ 	<li>On first launch, It'll install the dependencies and that's it.&nbsp;<code>Phish</code>&nbsp;is installed.</li>
+</ul>
+<pre></pre>
 
-<H4 align="Left">Features</h4>
 
-<H5 align="Left">Latest and updated login pages.</h5>
-<H5 align="Left">Mask URL support </h5>
-<H5 align="Left">Beginners friendly</h5>
-<H5 align="Left">Docker support (checkout 👉docker-legacy👈 branch)</h5>
-<H5 align="Left">Multiple tunneling options</h5>
-    <H5 align="Left"> • Localhost
-    <H5 align="Left"> • Ngrok (With or without hotspot)</h5>
+<h3>Run on Docker</h3>
 
 
-<H4 align="Left"> Installation</h4>
-
-# Just, Clone this repository
-
-- `git clone git://github.com/Deadman247/Phish`
-
-## Tool run
-- `cd phish`
-- `bash phish.sh`
-
-
-- On first launch, It'll install the dependencies and that's it. `Phish` is installed.
-
-### Run on Docker
-```
-$ docker pull Deadman247/Phish
+<pre>$ docker pull Deadman247/Phish
 $ docker run --rm -it Deadman247/Phish
-```
 
-### Dependencies
+</pre>
+<h3>Dependencies</h3>
+<strong><code>Phish</code></strong>&nbsp;requires following programs to run properly -
+<ul>
+ 	<li><code>php</code></li>
+ 	<li><code>wget</code></li>
+ 	<li><code>curl</code></li>
+ 	<li><code>git</code></li>
+</ul>
+All the dependencies will be installed automatically when you run&nbsp;<code>Phish</code>&nbsp;for the first time.
+<h3 align="center">:: Phish ::</h3>
+<p style="text-align:center;"><img class="alignnone size-full wp-image-35" src="https://deadman247.files.wordpress.com/2021/06/phish.jpg" alt="phish" width="480" height="500"></p>
+<p align="center"></p>
 
-**`Phish`** requires following programs to run properly - 
-- `php`
-- `wget`
-- `curl`
-- `git`
-
-> All the dependencies will be installed automatically when you run `Phish` for the first time.
-<h3 align="center">
-:: Phish ::
-</h3>
-<p align="center">
-<img src="Phish.JPG"/>
-</p>
-
-> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
-
-### Special Thanks :
-
-- [**Dead-Man**](https://github.com/Deadman247)
-
-### Find Me on :
-<p align="left">
-  <a href="https://github.com/Deadman247" target="_blank"><img src="https://img.shields.io/badge/Github-Dead--Man-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.facebook.com/DeadManGrayHat" target="_blank"><img src="https://img.shields.io/badge/Facebook-Dead--Man-red?style=for-the-badge&logo=Facebook"></a>
-  <a href="https://m.me/DeadManGrayHat" target="_blank"><img src="https://img.shields.io/badge/Messenger-Dead--Man-blue?style=for-the-badge&logo=Messenger"></a>
-</p>
+<blockquote>Supported Platform :&nbsp;<strong><code>Termux</code></strong>,&nbsp;<strong><code>Ubuntu/Debian/Kali</code></strong>,&nbsp;<strong><code>Arch Linux/Manjaro</code></strong>,&nbsp;<strong><code>Fedora</code></strong></blockquote>
+<h3><a id="user-content-special-thanks-" class="anchor" href="https://github.com/Deadman247/Phish/blob/master/README.md#special-thanks-" aria-hidden="true"></a>Special Thanks :</h3>
+<ul>
+ 	<li><a href="https://github.com/Deadman247"><strong>Dead-Man</strong></a></li>
+</ul>
+<h3><a id="user-content-find-me-on-" class="anchor" href="https://github.com/Deadman247/Phish/blob/master/README.md#find-me-on-" aria-hidden="true"></a>Find Me on :</h3>
+<p align="left"><a href="https://github.com/Deadman247"><img src="https://camo.githubusercontent.com/740544dc577adf295c72af4ef4ef0914572ab834aeb7798c661280b45efd1b0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d446561642d2d4d616e2d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562"></a>&nbsp;<a href="https://www.facebook.com/DeadManGrayHat" rel="nofollow"><img src="https://camo.githubusercontent.com/eb0f9023a7fdcb81d2cad7b47a49b3b756b5eaf9f169f171a31f87433b628e86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d446561642d2d4d616e2d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b"></a>&nbsp;<a href="https://m.me/DeadManGrayHat" rel="nofollow"><img src="https://camo.githubusercontent.com/b3f996a015fec9ec20f55759a6e7dc9ad46009d05cbf627bf8867a357cc3079a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d657373656e6765722d446561642d2d4d616e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4d657373656e676572"></a></p>
+<a style="font-size:1em;background-color:var(--wp--preset--color--background);font-family:var(--font-base, 'PT Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif);" href="https://m.me/DeadManGrayHat" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Messenger-Dead--Man-blue?style=for-the-badge&amp;logo=Messenger"></a>
