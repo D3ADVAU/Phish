@@ -1,6 +1,5 @@
 <!-- Phish -->
 <h1 align="center">Phish</h1><p align="center">
-</h3>
 <p align="center">
 <img src="logo.JPG"/>
 </p>
@@ -28,20 +27,19 @@
 
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 
-##
 
-### Features
+<H4 align="Left">Features</h4>
 
-- Latest and updated login pages.
-- Mask URL support 
-- Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
-- Multiple tunneling options
-  - Localhost
-  - Ngrok (With or without hotspot)
+<H5 align="Left">Latest and updated login pages.</h5>
+<H5 align="Left">Mask URL support </h5>
+<H5 align="Left">Beginners friendly</h5>
+<H5 align="Left">Docker support (checkout 👉docker-legacy👈 branch)</h5>
+<H5 align="Left">Multiple tunneling options</h5>
+    <H5 align="Left"> • Localhost
+    <H5 align="Left"> • Ngrok (With or without hotspot)</h5>
 
 
-### Installation
+<H4 align="Left"> Installation</h4>
 
 # Just, Clone this repository
 
