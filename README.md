@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 
-<h6>Features</h6>
+<h4>Features</h4>
 <ul>
  	<li>Latest and updated login pages.</li>
  	<li>Mask URL support</li>
@@ -29,8 +29,8 @@
 </ul>
 </li>
 </ul>
-<h6>Installation</h6>
-<h6>JustClone this repository</h6>
+<h4>Installation</h4>
+<h4>JustClone this repository</h4>
 <ul>
  	<li><code>git clone git://github.com/Deadman247/Phish</code></li>
 </ul>
